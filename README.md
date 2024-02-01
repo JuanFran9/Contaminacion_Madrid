@@ -33,3 +33,6 @@ max       161.750000
 ![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/5ab93556-51fa-4def-951c-55a6bb02601a)
 
 <img width="1066" alt="image" src="https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/fa7744ac-3ae6-42f4-b6ad-c81d2996c006">
+
+<img width="1102" alt="image" src="https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/cc0adf37-d1d0-4e90-89e8-af0acaf53f59">
+

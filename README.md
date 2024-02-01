@@ -28,7 +28,7 @@ max       161.750000
 
 ![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/e4858aa9-40b6-43d6-b663-bc69cc4af543)
 
-##2. Correlaciones entre temperatura/estaciones y NO2:
+## 2. Correlaciones entre temperatura/estaciones y NO2:
 
 ![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/5ab93556-51fa-4def-951c-55a6bb02601a)
 

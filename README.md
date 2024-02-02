@@ -39,3 +39,7 @@ max       161.750000
 
 <img width="1102" alt="image" src="https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/cc0adf37-d1d0-4e90-89e8-af0acaf53f59">
 
+## 3. Analisis Autocorrecalcion para ARIMA
+![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/2384ed76-3be4-4b7e-833b-88bc5f85f086)
+
+

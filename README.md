@@ -2,8 +2,7 @@
 
 Data Cleaning &amp; Exploratory Data Analysis de la contaminacion por NO2 en Madrid en 2018. 
 El jupyter notebook "contaminacion_madrid_2018.ipynb" contiene todo el data cleaning y analisis  para obtener los resultados mostrados debajo.
-Tambien hubo un intento de implementar modelos predictivos pero por motivos de tiempo no se pudieron terminar, no obstante, la comparativa entre modelos y el comienzo de la creacion de estos se hizo y se completaran mas adelante.
-
+Tambien se implementó un modelo predictivos XGBoost (Decision trees), que pudo tener en cuenta la serie temporal a la vez que la temperatura.
 
 ## 1. Analisis Descriptivo & exploracion gráfica:
 
@@ -39,7 +38,13 @@ max       161.750000
 
 <img width="1102" alt="image" src="https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/cc0adf37-d1d0-4e90-89e8-af0acaf53f59">
 
-## 3. Analisis Autocorrecalcion para ARIMA
+## 3. Modelos Predictivos 
+### Analisis Autocorrecalcion para ARIMA
 ![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/2384ed76-3be4-4b7e-833b-88bc5f85f086)
+### Predicciones con XGBoost 
+![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/6fc52bc6-780b-4385-b822-0c028cf22b2e)
+![image](https://github.com/JuanFran9/Contaminacion_Madrid/assets/58949950/4794b82c-7ef2-4df3-8f36-a6d23c4b8ec2)
+
+
 
 

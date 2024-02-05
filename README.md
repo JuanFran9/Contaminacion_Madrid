@@ -1,7 +1,7 @@
 # Contaminacion_Madrid
 
 Data Cleaning &amp; Exploratory Data Analysis de la contaminacion por NO2 en Madrid en 2018. 
-El jupyter notebook "contaminacion_madrid_2018.ipynb" contiene todo el data cleaning y analisis  para obtener los resultados mostrados debajo.
+El jupyter notebook "contaminacion_NO2_madrid_2018.ipynb" contiene todo el data cleaning y analisis  para obtener los resultados mostrados debajo.
 Tambien se implementó un modelo predictivos XGBoost (Gradient boost & decision trees), que tuvo en cuenta la serie temporal a la vez que la temperatura.
 
 ## 1. Analisis Descriptivo & exploracion gráfica:
